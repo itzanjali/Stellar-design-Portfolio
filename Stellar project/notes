@@ -1,0 +1,17 @@
+            for <a href="https://www.linkedin.com/in/anjali-prajapati-2b41201a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedln-anjali</a>.</p>
+            <nav id="nav" class="">
+                <ul>
+                    <li><a href="#intro" class="active">Introduction</a></li>
+                    <li><a href="#first" class="">First Section</a></li>
+                    <li><a href="#second" class="">Second Section</a></li>
+                    <li><a href="#cta">Get Started</a></li>
+                </ul>
+            </nav>
+            <nav id="nav" class="alt">
+                <ul>
+                    <li><a href="#intro" class="active">Introduction</a></li>
+                    <li><a href="#first" class="">First Section</a></li>
+                    <li><a href="#second" class="">Second Section</a></li>
+                    <li><a href="#cta">Get Started</a></li>
+                </ul>
+            </nav>
